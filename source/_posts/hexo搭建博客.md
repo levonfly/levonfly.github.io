@@ -40,6 +40,8 @@ date: 2016-12-01 17:54:46
 
 ### 3. github pages + 绑定域名
 
++ 为自己的 github 生成一个公钥私钥对
+
 + 建立带用户名的仓库 unix2dos.github.io
 
 - CNAME 放到 source 文件夹, 里面写上 www.liuvv.com
