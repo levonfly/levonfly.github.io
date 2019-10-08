@@ -713,8 +713,8 @@ calendar:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: levonfly
   count: true
   lazyload: false
 
